@@ -1,0 +1,23 @@
+.quote {
+  text-align: center;
+  color: #03c988;
+}
+.img {
+  width: 250px;
+  margin: 0 10px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+.img img {
+  width: 100%;
+  height: 100%;
+}
+.list-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+body {
+  background-color: #fa58b6;
+  padding-top: 100px;
+}
